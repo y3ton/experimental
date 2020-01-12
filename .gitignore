@@ -1,0 +1,16 @@
+.metadata
+.classpath
+.project
+.cache
+*.prefs
+*.class
+*.log
+**/target/
+target
+.idea
+*.iml
+**/activemq-data/
+
+node_modules
+*/loaderpl/dist/*
+package-lock.json
